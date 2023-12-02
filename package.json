@@ -1,11 +1,11 @@
 {
-  "name": "cv-template",
-  "version": "0.0.0",
+  "name": "rc-cv",
+  "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview",
-    "deploy": "npx push-dir --dir=dist --branch=gh-pages"
+    "deploy": "npx push-dir --dir=dist --branch=main"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.9",
